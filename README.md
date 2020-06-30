@@ -1,6 +1,6 @@
 # 바른정음
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-[![Forum](https://discordapp.com/api/guilds/352896116812939264/widget.png)](http://forum.tpk.kr)
+[![Forum](https://discordapp.com/api/guilds/680026950064275466/widget.png)](http://forum.tpk.kr)
 
 지금바로 초대하기 ===> http://korean.tpk.kr
 
