@@ -1,4 +1,9 @@
 # 바른정음
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Forum](https://discordapp.com/api/guilds/352896116812939264/widget.png)](http://forum.tpk.kr)
+
+지금바로 초대하기 ===> http://korean.tpk.kr
+
 ### 바른 한글 생활 도우미 디스코드 바른정음 봇입니다
 파이썬 3.7 ~ 3.8을 지원합니다.
 > 한글은 세계 어떤 나라의 문자에서도 볼 수 없는 가장 과학적인 표기체계이다
